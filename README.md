@@ -2,9 +2,9 @@
 
 Independent research combining property data, market evidence and reproducible analysis to examine Accra’s residential ecosystems.
 
-## Project overview
+# Project overview
 
-DIGITZ Real Estate Data Intelligence is an independent research initiative founded by Emmanuel Peprah. It examines how Accra’s residential property ecosystems differ in their housing composition, pricing architecture, tenure structure and wider market behaviour.
+DIGITZ Real Estate Data Intelligence is an independent property intelligence and research organisation founded by Emmanuel Peprah. It examines how Accra’s residential property ecosystems differ in their housing composition, pricing architecture, tenure structure and wider market behaviour.
 
 DIGITZ’s early exploratory work used manually collected property advertisements organised in Excel, with selected samples subsequently analysed in Python. The research programme has since expanded to include a purpose-built collection pipeline and a staged framework for dataset authentication and analysis. Authentication of the broader dataset remains in progress.
 
@@ -20,11 +20,11 @@ DIGITZ was established to investigate this gap by authenticating and comparing p
 
 ## Founder’s analytical journey
 
-My analytical foundation developed through loan operations analysis, where Excel became my first practical tool for examining loan performance and repayment risk. This experience encouraged me to pursue further training in data analytics, Python and statistics.
+My analytical foundation developed through financial operations analysis, where Excel became my first practical tool for examining performance and risk. This experience encouraged me to develop a background in data science, data analytics and Python.
 
-Alongside this development, an interest in evidence-based investment led me to examine Accra’s residential property sector from the perspective of a prospective investor. Through this investigation, I encountered the research gap described above.
+Alongside this development, an interest in eidence-based investment led me to examine Accra’s residential property sector from the perspective of a prospective investor. Through this investigation, I encountered the research gap described above.
 
-To deepen my understanding of the sector, I gained two years of direct industry experience in property operations, connecting patterns observed through data with operational realities. Building on these experiences, I established DIGITZ Real Estate Data Intelligence as an independent residential property research initiative.
+To deepen my understanding of the sector, I gained two years of direct industry experience in property operations, connecting patterns observed through data with operational realities. Building on these experiences, I established DIGITZ Real Estate Data Intelligence as an independent property intelligence and research organisation.
 
 ## Research purpose
 
