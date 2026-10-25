@@ -22,9 +22,9 @@ DIGITZ was established to investigate this gap by authenticating and comparing p
 
 My analytical foundation developed through financial operations analysis, where Excel became my first practical tool for examining performance and risk. This experience encouraged me to develop a background in data science, data analytics and Python.
 
-Alongside this development, an interest in eidence-based investment led me to examine Accra’s residential property sector from the perspective of a prospective investor. Through this investigation, I encountered the research gap described above.
+Alongside this development, an interest in evidence-based investment led me to examine Accra’s residential property sector from the perspective of a prospective investor. Through this investigation, I encountered the research gap described above.
 
-To deepen my understanding of the sector, I gained two years of direct industry experience in property operations, connecting patterns observed through data with operational realities. Building on these experiences, I established DIGITZ Real Estate Data Intelligence as an independent property intelligence and research organisation.
+To deepen my understanding of the sector, I gained two years of direct industry experience in property operations, connecting patterns observed through data with operational realities. Building on these experiences, I established DIGITZ.
 
 ## Research purpose
 
